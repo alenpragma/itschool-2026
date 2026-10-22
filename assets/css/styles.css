@@ -1061,7 +1061,7 @@ footer{background:var(--ink);color:rgba(251,247,240,.72);padding:70px 0 34px;mar
   width:52px;height:52px;flex:0 0 auto;border-radius:15px;display:grid;place-items:center;
   overflow:hidden;
 }
-.ini-logo svg,.ini-logo img{width:26px;height:26px;display:block}
+.ini-logo svg,.ini-logo img{width: 48px;height:48px;display:block}
 /* A real logo usually carries its own colour, so it is not recoloured the way
    the stroke icons are (they inherit `currentColor`) — it is only contained and
    kept from stretching. object-fit keeps any non-square upload readable. */
