@@ -1058,7 +1058,7 @@ footer{background:var(--ink);color:rgba(251,247,240,.72);padding:70px 0 34px;mar
    width/height attributes in the markup, so the browser reserves the box before
    the file arrives and the six cards cannot shift as the logos load. */
 .ini-logo{
-  width:52px;height:52px;flex:0 0 auto;border-radius:15px;display:grid;place-items:center;
+  flex:0 0 auto;border-radius:15px;display:grid;place-items:center;
   overflow:hidden;
 }
 .ini-logo svg,.ini-logo img{width: 48px;height:48px;display:block}
